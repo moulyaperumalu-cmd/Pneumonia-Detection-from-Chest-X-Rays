@@ -103,6 +103,13 @@ Possible Power BI visuals:
 - Confidence Distribution
 - Prediction Timeline
 
+
+## Image of website 
+<img width="1906" height="857" alt="Front page of website " src="https://github.com/user-attachments/assets/024259a7-41db-469e-9577-82a67de5dad2" />
+<img width="1913" height="780" alt="Prediction analysis" src="https://github.com/user-attachments/assets/a4049617-9eb2-4a08-8ab2-b63934636103" />
+<img width="1916" height="858" alt="Input and Output " src="https://github.com/user-attachments/assets/eb97eebb-d82c-4275-b6d8-78481eae9352" />
+
+
 ## Disclaimer
 
 This project is intended for educational and demonstration purposes only.
